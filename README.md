@@ -2,7 +2,6 @@ IrregularBird
 =============
 
 
-Hi Guys,
 
 This project written by Selman ÖZTÜRK.
 
