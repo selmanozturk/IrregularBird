@@ -1,14 +1,9 @@
 IrregularBird
 =============
 
-
-
-This project written by Selman ÖZTÜRK.
-
 Completely Free for non-commercial use.
 
-Written with JAVA like as FlappyBird.
+Written with JAVA like Flappy Bird.
 
-Bize Her Yer TRABZON!
-contact : selmanozturk61@gmail.com
+contact : selmanozturk061@gmail.com
 
