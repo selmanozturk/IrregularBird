@@ -3,7 +3,6 @@ IrregularBird
 
 Completely Free for non-commercial use.
 
-Written with JAVA like Flappy Bird.
+Written with JAVA to simulate Flappy Bird.
 
-contact : selmanozturk061@gmail.com
-
+(This code is worse than bad, sorry :) )
